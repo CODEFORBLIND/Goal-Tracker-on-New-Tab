@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Goal Tracker</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Popup for Today's Goals -->
+  <div id="popup" class="popup">
+    <h2>Today's Goals</h2>
+    <ul id="goalsList"></ul>
+    <button id="closePopup" style="display:none;">Okay</button> <!-- Hidden by default -->
+  </div>
+
+  <!-- Container for setting goals -->
+  <div id="goalForm" class="container">
+    <h1>Set Your Goals for Today</h1>
+    <textarea id="newGoals" placeholder="Enter your goals for today..."></textarea>
+    <button id="saveGoals">Save Goals</button>
+  </div>
+
+  <script src="newtab.js"></script>
+</body>
+</html>

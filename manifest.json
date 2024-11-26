@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Goal Tracker on New Tab",
+    "version": "1.4",
+    "description": "Track your daily goals on every new tab you open.",
+    "chrome_url_overrides": {
+      "newtab": "newtab.html"
+    },
+    "permissions": [
+      "storage",
+      "tabs"
+    ],
+    "icons": {
+      "128": "icon128.png"
+    }
+  }
+  
