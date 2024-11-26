@@ -13,15 +13,16 @@
 ---
 
 ## 📁 Project Structure  
-plaintext  
-goal-tracker-on-new-tab/  
-│  
-├── manifest.json       # Chrome extension configuration  
-├── index.html          # New tab HTML template  
-├── styles.css          # Styling for the extension  
-├── script.js           # Main JavaScript logic  
-└── assets/             # Images, icons, and other assets  
-  
+
+
+goal-tracker-on-new-tab/
+│
+├── manifest.json       # Chrome extension configuration
+├── index.html          # New tab HTML template
+├── styles.css          # Styling for the extension
+├── script.js           # Main JavaScript logic
+└── assets/             # Images, icons, and other assets
+
 
 ---
 
@@ -31,4 +32,6 @@ goal-tracker-on-new-tab/
 
 ---  
 
-Keep achieving, one goal at a time! 🚀
+Keep achieving, one goal at a time! 🚀  
+
+---
