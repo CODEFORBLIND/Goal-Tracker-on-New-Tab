@@ -13,7 +13,7 @@
 ---
 
 ## 📁 Project Structure  
-
+```
 
 goal-tracker-on-new-tab/
 │
@@ -22,7 +22,7 @@ goal-tracker-on-new-tab/
 ├── styles.css          # Styling for the extension
 ├── script.js           # Main JavaScript logic
 └── assets/             # Images, icons, and other assets
-
+```
 
 ---
 
