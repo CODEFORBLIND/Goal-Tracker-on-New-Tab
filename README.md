@@ -35,3 +35,8 @@ goal-tracker-on-new-tab/
 Keep achieving, one goal at a time! 🚀  
 
 ---
+
+
+[extension 1.webm](https://github.com/user-attachments/assets/4df0d175-a3ae-4f83-b678-048bd7f62f93)
+
+
